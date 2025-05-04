@@ -68,19 +68,19 @@ This Hospital Appointment Scheduling System is designed to help healthcare facil
 
 ```
 hospital_appointment_system/
-├── README.md                       # Project documentation
-├── requirements.txt                # Project dependencies
-├── .env.example                    # Example environment variables
-├── main.py                         # Application entry point
-├── config/                         # Configuration settings
+├── README.md                      
+├── requirements.txt                
+├── .env.example                    
+├── main.py                         
+├── config/                         
 ├── app/
-│   ├── agent/                      # LLM agent components
-│   ├── api/                        # External API integrations
-│   ├── conversation/               # Conversation management
-│   ├── models/                     # Data models
-│   └── utils/                      # Utility functions
-├── data/                           # Local data storage
-└── logs/                           # Application logs
+│   ├── agent/                      
+│   ├── api/                        
+│   ├── conversation/               
+│   ├── models/                     
+│   └── utils/                   
+├── data/                          
+└── logs/                          
 ```
 
 ## Customization for Hospitals
